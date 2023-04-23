@@ -1,2 +1,2 @@
-# cambio1
-corregir error1
+Eliezy      
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde github a mi computadora
